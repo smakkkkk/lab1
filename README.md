@@ -3,6 +3,7 @@
 Цель: удостовериться в знании Python (либо немного его изучить), поработать с Numpy
 
 Что нужно сделать:
+
 1. Скопировать репозиторий git clone https://github.com/AKlimovUrfu/lab1 с задачами
 2. Открыть файл основы_python.ipynb в Jupyter Notebook (VS Code тоже подойдет)
 3. Решить задачи
